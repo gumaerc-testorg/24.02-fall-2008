@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Objective Goods and the Good Life
 uid: 51a7d519-d44c-cd78-b872-0ea4727f98dc

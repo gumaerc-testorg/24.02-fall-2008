@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Radical Inequality and the Global Resources Dividend
 uid: ed96bd28-68c2-093e-7e73-e663eaaf9067

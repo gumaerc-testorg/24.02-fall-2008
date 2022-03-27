@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Goodness and Rational Desire
 uid: 70f45bd2-6bcb-baf5-455d-aebc9b4c9636

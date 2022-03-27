@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b6139300-cfdc-b603-248a-282092d70443
 resourcetype: Document
 title: First Argument Analysis Exercise
 uid: 3c47e7d7-af22-6039-214c-e8152b14c975

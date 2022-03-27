@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: Pleasure and the Good Life
 uid: 5dbce43c-5c9f-8ef8-1dfa-91aec2e0af9b

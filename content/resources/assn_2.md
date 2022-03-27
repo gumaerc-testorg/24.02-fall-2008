@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b6139300-cfdc-b603-248a-282092d70443
 resourcetype: Document
 title: Second Argument Analysis Exercise
 uid: 033cd26e-df0a-107d-fc9e-e97227cfac5c

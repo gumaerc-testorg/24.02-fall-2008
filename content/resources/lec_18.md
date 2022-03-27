@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0eb98e43-b1fd-4284-a395-ce1b1767bd8d
 resourcetype: Document
 title: "Offensive (Racist, Sexist\u2026) Acts, Offensive Humor"
 uid: a5211528-501d-db55-b3c1-383078d91704
