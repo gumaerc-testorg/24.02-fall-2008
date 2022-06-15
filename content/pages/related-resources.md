@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to general philosophy resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
