@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/0aab1b47c7a10474
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Paper 1
 uid: 0aab1b47-c7a1-0474-3a7c-eb9af5c8247d
 ---
 Writing assignment. Includes instructions, suggested topics, and guidelines for writing papers.
-

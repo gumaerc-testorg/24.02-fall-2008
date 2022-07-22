@@ -9,6 +9,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/70f45bd26bcbbaf5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,5 +19,3 @@ title: Goodness and Rational Desire
 uid: 70f45bd2-6bcb-baf5-455d-aebc9b4c9636
 ---
 Lecture notes on goodness and rational desire, Bentham’s hedonism, satisfaction of desire, Brandt’s theory, rational desire satisfaction account, the souped-up agent’s rational desire account, a challenge for any desire satisfaction account, the internalist principle, the epistemic principle, and Loeb’s challenge.
-
-

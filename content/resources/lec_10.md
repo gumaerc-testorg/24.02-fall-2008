@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/2c465addcdf62b0f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Animal Rights and Animal Welfare
 uid: 2c465add-cdf6-2b0f-d509-e2089862fc32
 ---
 Lecture notes on animal rights, animal welfare, Singer’s argument, Cohen’s Defense of speciesism, and Cohen on suffering.
-

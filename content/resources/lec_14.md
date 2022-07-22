@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/fbcd6571d85e9d90
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Kantian Approach to Famine Relief
 uid: fbcd6571-d85e-9d90-42e9-7815081c7735
 ---
 Lecture notes on Kantian ethics, the categorical imperative, and respect for persons.
-

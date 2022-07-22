@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/7cec191b57b656c1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Three Moral Theories
 uid: 7cec191b-57b6-56c1-2214-eff21023fc5c
 ---
 Lecture notes on three moral theories: utilitarianism (Mill), deontology (Kant), and virtue ethics (Aristotle).
-

@@ -7,6 +7,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/ed96bd2868c2093e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Radical Inequality and the Global Resources Dividend
 uid: ed96bd28-68c2-093e-7e73-e663eaaf9067
 ---
 Lecture notes on global suffering, the nature of our duty to aid, circumstances so dire that we have a perfect duty to prevent them, and a prooposed global resources dividend.
-

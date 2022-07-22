@@ -7,6 +7,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/51a7d519d44ccd78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Objective Goods and the Good Life
 uid: 51a7d519-d44c-cd78-b872-0ea4727f98dc
 ---
 Lecture notes on experiential quality theories, desire satisfaction theories, objective list theories, central human functional capabilities, the internalist principle, and Kraut and the love of the hood (hybrid theory).
-

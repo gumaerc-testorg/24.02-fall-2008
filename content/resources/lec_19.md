@@ -5,6 +5,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/48e3bf03d27a7957
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Hate Speech and Free Speech
 uid: 48e3bf03-d27a-7957-38ce-babd703f68cb
 ---
 Lecture notes on hate speech, free speech, and the regulation of speech.
-

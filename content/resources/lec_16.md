@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/51758153ba3acdd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Racism, Sexism and Oppression
 uid: 51758153-ba3a-cdd1-6a92-845d475de494
 ---
 Lecture notes on racism, sexism, and prejudice, structures and power, group membership, and structural sexism and racism.
-

@@ -5,6 +5,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/42682f2fa6b32c8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Pornography and Degradation
 uid: 42682f2f-a6b3-2c8c-958b-55e91ece15f5
 ---
 Lecture notes on freedom of speech, pornography, and degradation.
-

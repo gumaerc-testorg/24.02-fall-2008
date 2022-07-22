@@ -6,6 +6,7 @@ file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/3c47e7d7af226039
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: First Argument Analysis Exercise
 uid: 3c47e7d7-af22-6039-214c-e8152b14c975
 ---
 Assignment to write an analysis of an argument in Richard Kraut’s essay "Desire and the Human Good."
-
