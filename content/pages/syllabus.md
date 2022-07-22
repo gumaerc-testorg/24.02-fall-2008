@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on requirements, criteria for Communication Intensive (CI) subjects in the Humanities,
+  Arts, & Social Sciences (HASS), grading, assignments, exams, plagiarism, a statement
+  regarding academic misconduct, and how to cite a source.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2b145515-ed1e-80df-c84d-c98c587f5fe2
 ---
