@@ -87,7 +87,7 @@ Three moral theories ({{% resource_link 7cec191b-57b6-56c1-2214-eff21023fc5c "PD
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "[The Global Banquet: Politics of Food](http://www.films.com/ecTitleDetail.aspx?TitleID=96356)"
+Film: "{{% resource_link "aa7264ce-da87-47f8-b999-3d97e03c2e4d" "The Global Banquet: Politics of Food" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ Film: "[The Global Banquet: Politics of Food](http://www.films.com/ecTitleDetail
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "[Skin Deep](http://www.irisfilms.org/films/skin-deep/)"
+Film: "{{% resource_link "6f576a77-07f5-44b0-98f9-7a4bd23285bf" "Skin Deep" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +270,7 @@ Pornography and equality ({{% resource_link 42682f2f-a6b3-2c8c-958b-55e91ece15f5
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "[Tying the Knot](http://www.1049films.com/)"
+Film: "{{% resource_link "6b6ffd9a-28ab-4f0f-827d-877b0e4ed218" "Tying the Knot" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
