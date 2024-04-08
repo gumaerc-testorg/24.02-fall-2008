@@ -10,12 +10,12 @@ uid: 02c41266-0cc1-c951-7d80-3805a69c069a
 General Philosophy Resources
 ----------------------------
 
-[Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
+{{% resource_link "15560401-b631-4a37-ae17-99a2965f25a1" "Stanford Encyclopedia of Philosophy" %}}
 
-[American Philosophical Association](http://www.apaonline.org/)
+{{% resource_link "90ba4abf-d281-4d39-b47c-e119a33bcdc1" "American Philosophical Association" %}}
 
-[Guide to Philosophy on the Internet](http://www.earlham.edu/~peters/philinks.htm)
+{{% resource_link "aa8a9178-7ed7-493f-bf34-698b677fea68" "Guide to Philosophy on the Internet" %}}
 
-[The Philosopher's Magazine](https://www.philosophersmag.com/)
+{{% resource_link "b26da12e-c8c7-4d35-8705-a7a384fe55a6" "The Philosopher's Magazine" %}}
 
-[Ask Philosophers](http://www.askphilosophers.org/)
+{{% resource_link "d203125e-913c-4904-97b3-c2f5c69d5739" "Ask Philosophers" %}}
