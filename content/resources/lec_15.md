@@ -4,6 +4,7 @@ description: Lecture notes on global suffering, the nature of our duty to aid, c
   so dire that we have a perfect duty to prevent them, and a prooposed global resources
   dividend.
 file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/ed96bd2868c2093e7e73e663eaaf9067_lec_15.pdf
+file_size: 153513
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

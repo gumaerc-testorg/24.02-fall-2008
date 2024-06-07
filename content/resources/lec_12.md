@@ -4,6 +4,7 @@ description: Lecture notes on environmentalist strategies, environmentalism and 
   value (Taylor), environmentalism and extrinsic value (Thomson) , and virtue and
   the environment (Hill).
 file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/8ead81814727020c5511b130dcfe2a75_lec_12.pdf
+file_size: 179690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

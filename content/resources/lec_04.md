@@ -4,6 +4,7 @@ description: Lecture notes on experiential quality theories, desire satisfaction
   objective list theories, central human functional capabilities, the internalist
   principle, and Kraut and the love of the hood (hybrid theory).
 file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/51a7d519d44ccd78b8720ea4727f98dc_lec_04.pdf
+file_size: 161966
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

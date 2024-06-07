@@ -103,7 +103,7 @@ To put it bluntly, plagiarism is theft and fraud — it is the theft of someone 
 
 Because plagiarism can have severe disciplinary consequences, it is crucial to understand the concept. Just as scientists demand complete and accurate information about experiments so that they duplicate and check those experiments, so scholars and readers demand complete information so they can check your use of sources and accuracy in reporting what others said. In all academic writing, then, you must give complete citations (e.g., author, title, source, page) each time you use someone else's ideas, words, phrasing, or unusual information. An insidious form of plagiarism is the "patchwork paper" — some words and ideas taken from source A are stitched together with words and ideas from source B and source C and....
 
-Your essays should be your own work, although you are encouraged to seek writing advice from the {{% resource_link "d24e7563-b06b-49dc-9ac4-40c41fb34195" "Writing and Communication Center" %}}. If there is any question about whether the student's paper is his or her own work, TA's have been directed to bring the paper directly to the professor. Every effort will be made to determine whether the paper is plagiarized. This is an attempt to be fair to the teachers and the other students in the course.
+Your essays should be your own work, although you are encouraged to seek writing advice from the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/). If there is any question about whether the student's paper is his or her own work, TA's have been directed to bring the paper directly to the professor. Every effort will be made to determine whether the paper is plagiarized. This is an attempt to be fair to the teachers and the other students in the course.
 
 There are 4 guidelines for using sources in your essays:
 
@@ -112,7 +112,7 @@ There are 4 guidelines for using sources in your essays:
 *   When you use information that might not be considered common knowledge, cite the source.
 *   When in doubt about whether or not to give a citation, always give a citation.
 
-Additional information: {{% resource_link "25887219-d25d-4c21-b63f-a2063ff592a4" "Citing and Using Sources" %}}
+Additional information: [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/)
 
 How to Cite a Source
 --------------------
@@ -123,6 +123,6 @@ If your paper discusses a single essay assigned for the course, and if you make 
 
 If you use a source not assigned for the course, include the full reference for the source in a bibliography, and at the point in the text where you need to cite the source, put the author's last name, date of publication, and page number, e.g., (Armstrong 1978, 75).
 
-To cite internet sources, see {{% resource_link "281b5efc-49c4-4ffe-b3ce-4ec597fdbdfa" "Online Citation Styles" %}}.
+To cite internet sources, see [Online Citation Styles](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/cmos_formatting_and_style_guide/web_sources.html).
 
 If you have questions, be sure to contact the instructor or your TA.
