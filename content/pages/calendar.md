@@ -107,7 +107,7 @@ Three moral theories
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "{{% resource_link "aa7264ce-da87-47f8-b999-3d97e03c2e4d" "The Global Banquet: Politics of Food" %}}"
+Film: "[The Global Banquet: Politics of Food](http://www.films.com/ecTitleDetail.aspx?TitleID=96356)"
 {{< tdclose >}}
 {{< tdopen >}}
 Paper 1 due
@@ -119,7 +119,7 @@ Paper 1 due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "{{% resource_link "6f576a77-07f5-44b0-98f9-7a4bd23285bf" "Skin Deep" %}}"
+Film: "[Skin Deep](http://www.irisfilms.org/films/skin-deep/)"
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -335,7 +335,7 @@ Last day to submit paper 2 revisions
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Film: "{{% resource_link "6b6ffd9a-28ab-4f0f-827d-877b0e4ed218" "Tying the Knot" %}}"
+Film: "[Tying the Knot](http://www.1049films.com/)"
 {{< tdclose >}}
 {{< tdopen >}}
  
