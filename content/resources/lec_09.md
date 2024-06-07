@@ -4,6 +4,7 @@ description: Lecture notes on moral communities, how members of one moral commun
   should treat things outside of that moral community, rights, obligations, equal
   consideration, animal suffering, and animal killing.
 file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/61d3a024084cf902705bc5861287ba48_lec_09.pdf
+file_size: 263274
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

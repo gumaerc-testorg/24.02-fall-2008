@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on freedom of speech, pornography, and degradation.
 file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/42682f2fa6b32c8c958b55e91ece15f5_lec_21.pdf
+file_size: 171430
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
