@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to write an analysis of a provided argument on animal rights.
-file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/033cd26edf0a107dfc9ee97227cfac5c_assn_2.pdf
+file: /ol-ocw-studio-app/courses/24-02-moral-problems-and-the-good-life-fall-2008/033cd26edf0a107dfc9ee97227cfac5c_assn_2.pdf
 file_size: 61528
 file_type: application/pdf
 learning_resource_types:
