@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on racism, sexism, and prejudice, structures and power,
   group membership, and structural sexism and racism.
-file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/51758153ba3acdd16a92845d475de494_lec_16.pdf
+file: /ol-ocw-studio-app/courses/24-02-moral-problems-and-the-good-life-fall-2008/51758153ba3acdd16a92845d475de494_lec_16.pdf
 file_size: 151298
 file_type: application/pdf
 learning_resource_types:

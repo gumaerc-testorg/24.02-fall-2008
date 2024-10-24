@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions for the final exam of the course.
-file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/c9e92cdbee4d33a343da267c208dfc42_exam_guide.pdf
+file: /ol-ocw-studio-app/courses/24-02-moral-problems-and-the-good-life-fall-2008/c9e92cdbee4d33a343da267c208dfc42_exam_guide.pdf
 file_size: 193294
 file_type: application/pdf
 learning_resource_types:
