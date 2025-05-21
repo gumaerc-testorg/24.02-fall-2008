@@ -2,7 +2,7 @@
 content_type: resource
 description: Writing assignment. Includes instructions, suggested topics, and guidelines
   for writing papers.
-file: /ol-ocw-studio-app/courses/24-02-moral-problems-and-the-good-life-fall-2008/109849f6d8c71ff6d9a129436f7389be_paper_2.pdf
+file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/109849f6d8c71ff6d9a129436f7389be_paper_2.pdf
 file_size: 82312
 file_type: application/pdf
 learning_resource_types:
