@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on racist speech, basic racist acts, racism and truth,
   and racist humor.
-file: /ol-ocw-studio-app/courses/24-02-moral-problems-and-the-good-life-fall-2008/a5211528501ddb55b3c1383078d91704_lec_18.pdf
+file: /courses/24-02-moral-problems-and-the-good-life-fall-2008/a5211528501ddb55b3c1383078d91704_lec_18.pdf
 file_size: 160407
 file_type: application/pdf
 learning_resource_types:
