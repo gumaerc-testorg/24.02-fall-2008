@@ -85,18 +85,18 @@ DMI, Introduction sections 2A (pp. 6-11), 2C (pp. 15-20), 2E (pp. 23-24).
 
 ### Recommended
 
-Sayre-McCord, Geoffrey. "Kant's Grounding for the Metaphysics of Morals: A Very Brief Selective Summary of Sections I and II." University of North Carolina at Chapel Hill, 2000. ([PDF](https://cse.sc.edu/~mgv/csce390f13/Kantsum.pdf))
+Sayre-McCord, Geoffrey. "Kant's Grounding for the Metaphysics of Morals: A Very Brief Selective Summary of Sections I and II." University of North Carolina at Chapel Hill, 2000. ({{% resource_link "d85f0329-3319-4e38-bb2c-5cc451deec67" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Film: "[The Global Banquet: Politics of Food](http://www.films.com/ecTitleDetail.aspx?TitleID=96356)"
+Film: "{{% resource_link "50fe6e43-2c63-427b-bc27-63285a8d2f6c" "The Global Banquet: Politics of Food" %}}"
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Film: "[Skin Deep](http://www.irisfilms.org/films/skin-deep/)"
+Film: "{{% resource_link "676981d5-9ed7-41f6-813d-bb6fb8d8cc03" "Skin Deep" %}}"
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -109,7 +109,7 @@ Animal rights
 
 Singer, Peter. "All Animals Are Equal." DMI, pp. 477.
 
-Pollan, Michael. "[An Animal's Place](http://www.michaelpollan.com/article.php?id=55)." *The New York Times Magazine*, November 10, 2002.
+Pollan, Michael. "{{% resource_link "98483458-76a8-4451-bc21-cdea046d727f" "An Animal's Place" %}}." *The New York Times Magazine*, November 10, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -119,7 +119,7 @@ Consuming animals
 
 Cohen, Carl. "In Defense of Speciesism." DMI, pp. 485.
 
-Wenz, Peter. "[An Ecological Argument for Vegetarianism](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1207&context=ethicsandanimals)." *Ethics and Animals*, no. 5 (1984).
+Wenz, Peter. "{{% resource_link "6a640abe-6eda-4837-9e65-d5b3f6a73ead" "An Ecological Argument for Vegetarianism" %}}." *Ethics and Animals*, no. 5 (1984).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -173,7 +173,7 @@ O'Neill, Onora. "A Kantian Approach to World Hunger." DMI, pp. 467.
 Addressing structural injustice
 {{< tdclose >}}{{< tdopen >}}
 
-Pogge, Thomas. "Eradicating Systematic Poverty: Brief for a Global Resources Dividend." *Journal of Human Development* 2, no. 1 (2001): 59-77. ([PDF](http://socialsciences.scielo.org/scielo.php?script=sci_abstract&pid=S1806-64452007000100007))
+Pogge, Thomas. "Eradicating Systematic Poverty: Brief for a Global Resources Dividend." *Journal of Human Development* 2, no. 1 (2001): 59-77. ({{% resource_link "a8ddfa4f-0bef-4689-b0e3-3f692e693083" "PDF" %}})
 
 ### Recommended
 
@@ -239,7 +239,7 @@ Dworkin, Ronald. "Liberty and Pornography." DMI, pp. 107.
 
 ### Recommended
 
-Mill, John Stuart. "[On Liberty](http://www.bartleby.com/130/)." London, UK: Longman, Roberts & Green, 1869.
+Mill, John Stuart. "{{% resource_link "1578f85d-4696-4677-9cb1-4b4ce21d22bb" "On Liberty" %}}." London, UK: Longman, Roberts & Green, 1869.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -258,14 +258,14 @@ Garry, Ann. "Sex, Lies and Pornography." Chapter 35 In *Ethics in Practice*. 2nd
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Film: "[Tying the Knot](http://www.1049films.com/)"
+Film: "{{% resource_link "c287fa79-42fa-4284-aa04-aa354c3a455f" "Tying the Knot" %}}"
 {{< tdclose >}}{{< tdopen >}}
 
-Human Rights Campaign. "[Massachusetts Marriage Decision Questions and Answers](http://www.hrc.org/issues/5526.htm)."
+Human Rights Campaign. "{{% resource_link "62b00b66-0fc9-45ea-a0c5-edad0d862654" "Massachusetts Marriage Decision Questions and Answers" %}}."
 
 ### Recommended
 
-Goodridge, et al. [Department of Public Health](http://masscases.com/cases/sjc/440/440mass309.html).
+Goodridge, et al. {{% resource_link "9d7eb1ec-cf98-41ce-99b0-9dbac6d437fd" "Department of Public Health" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -279,7 +279,7 @@ Punzo, Vincent C. "Morality and Human Sexuality." Chapter 24 in *Ethics in Pract
 
 ### Recommended
 
-West, Robin. "[Sex, Law and Consent](https://scholarship.law.georgetown.edu/fwps_papers/71/)." Georgetown Law. Georgetown Law Faculty Working Papers. Paper 71, July 23, 2008.
+West, Robin. "{{% resource_link "b1f96e46-94ac-45ae-ab9c-20b58b28f0b1" "Sex, Law and Consent" %}}." Georgetown Law. Georgetown Law Faculty Working Papers. Paper 71, July 23, 2008.
 
 Aquinas, Thomas. *Summa Contra Gentiles*. Book 3: 122.
 
@@ -319,9 +319,9 @@ Ezorsky, Gertrude. "Overt and Institutional Racism." Chapter 1 in *Racism and Ju
 
 West, Robin. "The Harms of Consensual Sex." *The American Philosophical Association Newsletters* 94, no. 2 (1995): 52-55.
 
-Bittman, Mark. "[Rethinking the Meat-Guzzler](http://www.nytimes.com/2008/01/27/weekinreview/27bittman.html?_r=1)." *The New York Times*, January 27, 2008.
+Bittman, Mark. "{{% resource_link "3eb52d04-cc43-44b2-91af-30c879b90d45" "Rethinking the Meat-Guzzler" %}}." *The New York Times*, January 27, 2008.
 
-Stanford Encyclopedia of Philosophy. "[Moral Relativism](http://plato.stanford.edu/entries/moral-relativism/)." Look especially at section 2.
+Stanford Encyclopedia of Philosophy. "{{% resource_link "8dcf7a2d-2b9f-4907-934f-075befc672cc" "Moral Relativism" %}}." Look especially at section 2.
 
 Mill, John Stuart. "Utilitarianism." In *Morality Matters: Race, Class, and Gender in Applied Ethics*. Edited by Jeffrey R. Di Leo. Boston, MA: McGraw-Hill, 2002, pp. 47. ISBN: 9780072840759.
 
@@ -329,6 +329,6 @@ Kant, Immanuel. "The Categorical Imperative." In *Morality Matters: Race, Class,
 
 Aristotle. "Virtue Ethics." In *Morality Matters: Race, Class, and Gender in Applied Ethics*. Edited by Jeffrey R. Di Leo. Boston, MA: McGraw-Hill, 2002, pp. 60. ISBN: 9780072840759.
 
-Lakoff, George. ["What's in a Word? Plenty, if it's "Marriage."](https://www.berkeley.edu/news/media/releases/2004/02/20_lakoff.shtml) Rockridge Institute, July 22, 2005.
+Lakoff, George. {{% resource_link "60892fa4-c0b5-4b0b-bb90-fc1584828c2d" "\"What's in a Word? Plenty, if it's \"Marriage.\"" %}} Rockridge Institute, July 22, 2005.
 
-Card, Claudia. "[Why Gays Shouldn't Marry](http://www.littlemag.com/belonging/claudia.html)." *The Little Magazine*, vol. 2, no. 3, "Belonging."
+Card, Claudia. "{{% resource_link "8a7bac2b-9c64-4f3a-8e56-4db237be4910" "Why Gays Shouldn't Marry" %}}." *The Little Magazine*, vol. 2, no. 3, "Belonging."
